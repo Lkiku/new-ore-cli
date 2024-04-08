@@ -27,11 +27,3 @@ cargo build --release
 ```
 
 This will start Ore CLI using the specified configuration.
----
-### Welcome to the Nyaverse! 💖✨
-
-- 🐾 [Twitter: Follow @nyahunters](https://twitter.com/nyahunters)
-- 🐱 [Telegram: Join nyas_lodge](https://t.me/nyas_lodge) 
-
-Let's create meowgical moments together! 🎉🐈‍⬛
-
