@@ -18,8 +18,8 @@ cargo build --release
 ```
 
 **Configuration:**
-- Write private keys to `keys`, one per line.
-- Write RPC urls to `rpcs`, one per line.
+- Write private keys to `keys.txt`, one per line.
+- Write RPC urls to `rpcs.txt`, one per line.
 
 **Run:**
 ```sh
